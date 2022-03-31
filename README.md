@@ -10,7 +10,7 @@ A complete event platform used to organise and track event activities.
 ## Home Page
 - Includes everything for events 
 
-<img src="https://github.com/prkhrv/Ebullience-2k18/blob/main/screenshots/Screenshot%20(34).png" height="500">&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
+<img src="https://github.com/prkhrv/Ebullience-2k18/blob/main/screenshots/ebullience.gif" height="500">&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
 
 ## Events Page 
 - Page to display all the events Users can view details and register in events
